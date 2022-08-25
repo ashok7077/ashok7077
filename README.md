@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashok
-- 👀 I’m interested in AWS
+- 👀 I’m interested in Devops
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Amazon
+- 💞️ I’m looking to collaborate with Amazon
 - 📫 How to reach me mashokc.77@gmail.com
 
 <!---
