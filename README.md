@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashok7077
+- 👋 Hi, I’m @Ashok
 - 👀 I’m interested in AWS
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Amazon
