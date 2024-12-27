@@ -30,6 +30,9 @@ AWS Certified Solutions Architect – Associate with 2.7 years of hands-on exper
 - Designed and implemented scalable, secure, and high-availability AWS infrastructures using CloudFormation.
 - Configured and monitored Site-to-Site VPN tunnels with static routing and enforced strict security policies.
 - Configured Site-to-Site VPN, VPC peering, and transit gateway routing to ensure seamless communication between multi-region VPCs.
+- Basic knowledge of configuring Cisco IPsec VPNs for secure network communication.
+- Experienced in leveraging AWS Marketplace AMIs to create EC2 instances for various network configurations.
+- Skilled in configuring client networks in IPsec within AWS EC2 instances for secure connectivity.
 - Automated CI/CD pipelines using Jenkins and Ansible, streamlining application deployments.
 - Deployed and secured MongoDB in private EC2 environments with remote access configurations.
 - Developed AI-driven monitoring solutions for Client On-Premise to AWS tunnels using n8n, improving response times.
