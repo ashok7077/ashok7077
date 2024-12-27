@@ -1,11 +1,11 @@
-Ashok Muthineni
+Ashok Muthineni\
 Hyderabad, Telangana\
 +91 94944 57077 | [mashokc.77@gmail.com](mailto\:mashokc.77@gmail.com)
 
 ---
 
 **Professional Summary**\
-AWS Certified Solutions Architect – Associate with 5+ years of expertise in cloud infrastructure management, DevOps practices, database migration, and chatbot development. Adept at designing and implementing scalable cloud solutions, integrating AI-driven monitoring systems, and automating workflows with advanced scripting and DevOps tools. Proven track record in leading teams, mentoring professionals, and delivering innovative solutions to complex challenges. Proficient in streamlining operations, enhancing system reliability, and driving digital transformation for diverse business needs.
+AWS Certified Solutions Architect – Associate with 2.7 years of hands-on experience in cloud infrastructure management, DevOps practices, database migration, and chatbot development. Proficient in designing and deploying scalable cloud solutions, integrating AI-driven monitoring, and automating processes with advanced scripting and DevOps tools. Strong communicator and team player, with proven expertise in mentoring and delivering innovative solutions to complex challenges.
 
 ---
 
@@ -14,7 +14,7 @@ AWS Certified Solutions Architect – Associate with 5+ years of expertise in cl
 - **Cloud Platforms**: AWS (EC2, S3, IAM, Lambda, RDS, VPC, Step Functions, CloudFormation, CloudWatch, API Gateway, EKS)
 - **DevOps Tools**: Puppet, Ansible, Terraform, Prometheus, Jenkins, Docker
 - **Database Management**: Oracle to RDS migration, MongoDB, Snowflake
-- **Programming/Scripting**: Python, Shell, Perl
+- **Programming/Scripting**: Python, Shell
 - **AI & Chatbots**: AWS Lex, Bedrock, VAPI SDK, Speech-to-Text Integration
 - **Networking**: IPsec/IKEv2, VPN (Static Routing), AWS VPC Peering, Network Load Balancer
 - **Monitoring & Security**: CloudWatch Alarms, log monitoring, IAM Policy Creation, Security Groups
@@ -25,67 +25,58 @@ AWS Certified Solutions Architect – Associate with 5+ years of expertise in cl
 
 **Professional Experience**
 
-**Project: MVNOC**
+**Project 4: MVNO**\
+**Cloud Engineer**\
+SP Software Pvt Ltd | Nov 2023 – Present
 
-Role: Cloud Engineer
-
-*SP Software Pvt Ltd | Jan 2023 – Present*
-
-- Designed and implemented scalable, secure, and high-availability AWS infrastructures using CloudFormation and Terraform.
+- Designed and implemented scalable, secure, and high-availability AWS infrastructures using CloudFormation.
 - Configured and monitored Site-to-Site VPN tunnels with static routing and enforced strict security policies.
+- Configured Site-to-Site VPN, VPC peering, and transit gateway routing to ensure seamless communication between multi-region VPCs.
 - Automated CI/CD pipelines using Jenkins and Ansible, streamlining application deployments.
 - Deployed and secured MongoDB in private EC2 environments with remote access configurations.
-- Developed AI-driven monitoring solutions for RP-MVNO tunnels using n8n, improving response times.
+- Developed AI-driven monitoring solutions for Client On-Premise to AWS tunnels using n8n, improving response times.
 - Introduced containerized application solutions using Docker, enhancing portability and scalability.
-- Conducted regular system audits and implemented robust disaster recovery solutions.
 - Managed Snowflake user roles and permissions to ensure secure and efficient data access.
-- Designed and implemented Snowflake data access strategies aligned with business requirements.
-- Built a connection between AWS S3 and Snowflake using IAM policies and transferred data between Snowflake stages and AWS S3.
-- Created alarms for errors in Lambda functions by setting up metric filters and monitoring with CloudWatch alarms.
-- Configured alarms for EC2 CPU utilization to proactively manage instance performance.
-- Designed and monitored CloudWatch alarms for AWS SIP gateways, ensuring high availability and error detection.
+- Created CloudWatch alarms to monitor Lambda errors, SIP gateway issues, and EC2 CPU utilization.
+- Configured security groups and implemented IP whitelisting to restrict access to critical resources.
 
-**Project: Jaimax**
+**Project 3: Jaimax**
 
-Role: Associate Cloud Engineer\
-*SP Software Pvt Ltd | Nov 2022 – Jan 2023*
+**Associate Cloud Engineer**\
+SP Software Pvt Ltd | Jan 2023 – Nov 2023
 
 - Designed and deployed a secure and scalable cloud infrastructure on AWS within a 3-month timeline.
 - Migrated large datasets from legacy systems to AWS S3, enabling seamless access and management.
 - Configured IAM policies and security groups to ensure data and application security.
-- Optimized resource utilization, achieving a 40% reduction in operational costs by analyzing usage patterns and rightsizing instances.
-- Designed and deployed a secure and scalable web application infrastructure using AWS EC2 instances.
-- Migrated the MongoDB on-premises database to a secure AWS EC2 instance, ensuring seamless integration and data availability.
-Configured and implemented a Load Balancer to distribute web application traffic efficiently across multiple instances.
-- Set up domain forwarding in the Application Load Balancer for optimized URL routing.
-Routed domain traffic from the registered domain to the Application Load Balancer using Amazon Route 53, improving accessibility and reliability.
-- Reduced operational costs by analyzing usage metrics and rightsizing EC2 instances based on actual utilization.
+- Optimized resource utilization, achieving a 40% reduction in operational costs by analyzing usage patterns.
+- Migrated MongoDB on-premises databases to AWS EC2 instances, ensuring seamless integration.
+- Configured Load Balancers and routed domain traffic using Amazon Route 53 for optimized performance.
+- Monitored application performance and implemented CloudWatch alarms for enhanced reliability.
 
-**Project: Chatbot Developer**
+**Project 2: SmartPort Chatbot**\
+**Associate Cloud Engineer**\
+SP Software Pvt Ltd | Nov 2022 – Jan 2023
 
-Role: Associate Cloud Engineer
-
-*SP Software Pvt Ltd | Nov 2022 – Aug 2023*
-
-- Designed and deployed chatbots for porting requests using AWS Lex, integrating slot-filling functionality with DynamoDB for real-time data updates.
+- Designed and deployed chatbots for porting requests using AWS Lex with slot-filling functionality integrated into DynamoDB.
 - Created interactive voice assistant web pages leveraging VAPI SDK for speech and event handling.
 - Integrated AWS Lambda for API validations and Step Functions for workflow orchestration.
-- Managed deployments on Apache servers and set up comprehensive logging and monitoring systems via CloudWatch.
-- Created a knowledge base with custom data sets for chatbot responses.
-- Enabled sentiment analysis to improve the chatbot's understanding of user emotions.
-- Deployed the chatbot on AWS S3 and CloudFront, ensuring scalability and low-latency user access.
+- Deployed and monitored chatbot solutions on AWS S3 and CloudFront for scalability and low-latency access.
 - Enhanced chatbot workflows by implementing real-time intent management and fallback scenarios.
+- Built a knowledge base in Amazon Bedrock by integrating it with data stored in S3.
+- Monitored Lambda functions and set up CloudWatch alarms to trigger SNS topics in case of errors.
+- Automated daily backup of Lambda function code from the development environment for recovery purposes.
+- Implemented automated scheduling of Lambda functions using Amazon EventBridge, ensuring smooth orchestration of event-driven workflows across multiple services.
 
-**Project: RMS**
+**Project 1: RMS** 
 
-Role: Associate Cloud Engineer\
-*SP Software Pvt Ltd | May 2022 – Nov 2022*
+**Associate Cloud Engineer**\
+SP Software Pvt Ltd | May 2022 – Nov 2022
 
-- Managed AWS infrastructure, including EC2 instance provisioning, IAM policy creation, and security group configurations.
+- Managed AWS infrastructure, including EC2 provisioning, IAM policy creation, and security group configurations.
+- Implemented CI/CD pipelines using GitHub Actions, automated the creation of Docker images, and deployed applications using containerized Docker images.
 - Automated infrastructure deployment using Ansible playbooks, reducing setup time by 50%.
-- Modified infrastructure to match utilization levels, optimizing costs by downsizing instances where applicable.
-- Provided training to interns and clients on AWS services, DevOps tools, and cloud migration strategies.
 - Conducted infrastructure scaling to support high-demand applications, ensuring 99.9% availability.
+- Collaborated with teams to design cloud-native architectures and mentored interns on AWS best practices, DevOps workflows, and database migration strategies.
 
 
 
@@ -93,27 +84,18 @@ Role: Associate Cloud Engineer\
 
 **Education**
 
-- **Bachelor of Computer Science (IT)**, Sunrise University – 2017
-- **Certifications**: AWS Certified Solutions Architect – Associate, AWS Certified Developer – Associate
+- Bachelor of Computer Science (IT) – Sunrise University, 2017
 
----
+**Certifications**
 
-**Projects**
-
-- **AI Chatbot for Customer Support**: Built and deployed a chatbot with natural language processing capabilities, integrating AWS Lex, Lambda, and Bedrock for seamless customer interaction.
-- **Database Migration**: Successfully migrated legacy Oracle systems to AWS RDS, optimizing performance and reducing costs.
-- **Site-to-Site VPN Monitoring**: Designed and implemented monitoring solutions for VPN tunnels, creating detailed CloudWatch alarms for error detection and resolution.
-- **Containerized Application Deployment**: Developed a containerization strategy using Docker to streamline application deployment and improve maintainability.
-- **Cross-Region Backup Solution**: Implemented a cross-region backup strategy for critical applications, ensuring data availability and disaster recovery.
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Developer – Associate
 
 ---
 
 **Achievements**
 
-- Architected a scalable cloud infrastructure, achieving a 60% reduction in operational costs.
-- Automated deployment pipelines, cutting provisioning time by 50% and improving workflow efficiency.
-- Spearheaded a major cloud migration project, meeting all deadlines and exceeding performance benchmarks.
-- Recognized for implementing innovative solutions in AI-driven chatbot development, improving customer satisfaction by 30%.
-
----
+- Deployed a scalable cloud infrastructure that reduced operational costs by 60%.
+- Recognized as "Employee of the Month" for optimizing VPN configurations.
+- Automated deployment processes, reducing provisioning time by 50%.
 
