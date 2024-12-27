@@ -12,23 +12,21 @@ AWS Certified Solutions Architect – Associate with 2.7 years of hands-on exper
 **Technical Skills**
 
 - **Cloud Platforms**: AWS (EC2, S3, IAM, Lambda, RDS, VPC, Step Functions, CloudFormation, CloudWatch, API Gateway, EKS)
-- **DevOps Tools**: Puppet, Ansible, Terraform, Prometheus, Jenkins, Docker
+- **DevOps Tools**: Ansible, Terraform, Prometheus, Jenkins, Docker
 - **Database Management**: Oracle to RDS migration, MongoDB, Snowflake
 - **Programming/Scripting**: Python, Shell
-- **AI & Chatbots**: AWS Lex, Bedrock, VAPI SDK, Speech-to-Text Integration
+- **AI & Chatbots**: AWS Lex, Bedrock, VAPI SDK, Speech-to-Text Integration, Botpress.
 - **Networking**: IPsec/IKEv2, VPN (Static Routing), AWS VPC Peering, Network Load Balancer
 - **Monitoring & Security**: CloudWatch Alarms, log monitoring, IAM Policy Creation, Security Groups
 - **Data Warehousing**: Snowflake user administration, access management
-- **Operating Systems**: Linux (Ubuntu, Red Hat, Amazon Linux, Debian)
+- **Operating Systems**: Linux (Ubuntu, Red Hat, Amazon Linux, Debian), Windows
 
 ---
 
-**Professional Experience**
-
+**Professional Experience**\
 **Project 4: MVNO**\
 **Cloud Engineer**\
-SP Software Pvt Ltd | Nov 2023 – Present
-
+*SP Software Pvt Ltd | Nov 2023 – Present*
 - Designed and implemented scalable, secure, and high-availability AWS infrastructures using CloudFormation.
 - Configured and monitored Site-to-Site VPN tunnels with static routing and enforced strict security policies.
 - Configured Site-to-Site VPN, VPC peering, and transit gateway routing to ensure seamless communication between multi-region VPCs.
@@ -40,11 +38,9 @@ SP Software Pvt Ltd | Nov 2023 – Present
 - Created CloudWatch alarms to monitor Lambda errors, SIP gateway issues, and EC2 CPU utilization.
 - Configured security groups and implemented IP whitelisting to restrict access to critical resources.
 
-**Project 3: Jaimax**
-
+**Project 3: Jaimax**\
 **Associate Cloud Engineer**\
-SP Software Pvt Ltd | Jan 2023 – Nov 2023
-
+*SP Software Pvt Ltd | Jan 2023 – Nov 2023*
 - Designed and deployed a secure and scalable cloud infrastructure on AWS within a 3-month timeline.
 - Migrated large datasets from legacy systems to AWS S3, enabling seamless access and management.
 - Configured IAM policies and security groups to ensure data and application security.
@@ -55,7 +51,7 @@ SP Software Pvt Ltd | Jan 2023 – Nov 2023
 
 **Project 2: SmartPort Chatbot**\
 **Associate Cloud Engineer**\
-SP Software Pvt Ltd | Nov 2022 – Jan 2023
+*SP Software Pvt Ltd | Nov 2022 – Jan 2023*
 
 - Designed and deployed chatbots for porting requests using AWS Lex with slot-filling functionality integrated into DynamoDB.
 - Created interactive voice assistant web pages leveraging VAPI SDK for speech and event handling.
@@ -70,7 +66,7 @@ SP Software Pvt Ltd | Nov 2022 – Jan 2023
 **Project 1: RMS** 
 
 **Associate Cloud Engineer**\
-SP Software Pvt Ltd | May 2022 – Nov 2022
+*SP Software Pvt Ltd | May 2022 – Nov 2022*
 
 - Managed AWS infrastructure, including EC2 provisioning, IAM policy creation, and security group configurations.
 - Implemented CI/CD pipelines using GitHub Actions, automated the creation of Docker images, and deployed applications using containerized Docker images.
