@@ -5,21 +5,21 @@ Hyderabad, Telangana\
 ---
 
 **Professional Summary**\
-AWS Certified Solutions Architect – Associate with 2.7 years of hands-on experience in cloud infrastructure management, DevOps practices, database migration, and chatbot development. Proficient in designing and deploying scalable cloud solutions, integrating AI-driven monitoring, and automating processes with advanced scripting and DevOps tools. Strong communicator and team player, with proven expertise in mentoring and delivering innovative solutions to complex challenges.
+AWS Certified Solutions Architect – Associate with 3.2 years of hands-on experience in cloud infrastructure management, DevOps practices, database migration, and chatbot development. Proficient in designing and deploying scalable cloud solutions, integrating AI-driven monitoring, and automating processes with advanced scripting and DevOps tools. Strong communicator and team player, with proven expertise in mentoring and delivering innovative solutions to complex challenges.
 
 ---
 
 **Technical Skills**
 
-- **Cloud Platforms**: AWS (EC2, S3, IAM, Lambda, RDS, VPC, Step Functions, CloudFormation, CloudWatch, API Gateway, EKS)
-- **DevOps Tools**: Ansible, Terraform, Prometheus, Jenkins, Docker
-- **Database Management**: Oracle to RDS migration, MongoDB, Snowflake
+- **Cloud Platforms**: AWS (EC2, S3, IAM, Lambda, RDS, VPC, Step Functions, CloudFormation, CloudWatch, API Gateway, EKS, Sagemaker Unified Studio).
+- **DevOps Tools**: Ansible, Terraform, Prometheus, Jenkins, Docker.
+- **Database Management**: Oracle to RDS migration, MongoDB, Snowflake.
 - **Programming/Scripting**: Python, Shell
 - **AI & Chatbots**: AWS Lex, Bedrock, VAPI SDK, Speech-to-Text Integration, Botpress.
-- **Networking**: IPsec/IKEv2, VPN (Static Routing), AWS VPC Peering, Network Load Balancer
-- **Monitoring & Security**: CloudWatch Alarms, log monitoring, IAM Policy Creation, Security Groups
-- **Data Warehousing**: Snowflake user administration, access management
-- **Operating Systems**: Linux (Ubuntu, Red Hat, Amazon Linux, Debian), Windows
+- **Networking**: IPsec/IKEv2, VPN (Static Routing), AWS VPC Peering, Transit Gateway.
+- **Monitoring & Security**: CloudWatch Alarms, log monitoring, IAM Policy Creation, Security Groups.
+- **Data Warehousing**: Snowflake user administration, access management.
+- **Operating Systems**: Linux (Ubuntu, Red Hat, Amazon Linux, Debian), Windows.
 
 ---
 
@@ -27,30 +27,49 @@ AWS Certified Solutions Architect – Associate with 2.7 years of hands-on exper
 **Project 4: MVNO**\
 **Cloud Engineer**\
 *SP Software Pvt Ltd | Nov 2023 – Present*
-- Designed and implemented scalable, secure, and high-availability AWS infrastructures using CloudFormation.
-- Configured and monitored Site-to-Site VPN tunnels with static routing and enforced strict security policies.
-- Configured Site-to-Site VPN, VPC peering, and transit gateway routing to ensure seamless communication between multi-region VPCs.
-- Basic knowledge of configuring Cisco IPsec VPNs for secure network communication.
-- Experienced in leveraging AWS Marketplace AMIs to create EC2 instances for various network configurations.
-- Skilled in configuring client networks in IPsec within AWS EC2 instances for secure connectivity.
-- Automated CI/CD pipelines using Jenkins and Ansible, streamlining application deployments.
-- Deployed and secured MongoDB in private EC2 environments with remote access configurations.
-- Developed AI-driven monitoring solutions for Client On-Premise to AWS tunnels using n8n, improving response times.
-- Introduced containerized application solutions using Docker, enhancing portability and scalability.
-- Managed Snowflake user roles and permissions to ensure secure and efficient data access.
-- Created CloudWatch alarms to monitor Lambda errors, SIP gateway issues, and EC2 CPU utilization.
-- Configured security groups and implemented IP whitelisting to restrict access to critical resources.
+- Designed and deployed scalable, secure, and highly available AWS infrastructures using CloudFormation.
+
+- Configured Site-to-Site VPNs, VPC Peering, Transit Gateway routing, and IPsec tunnels (including basic Cisco IPsec setup) for secure, multi-region network connectivity.
+
+- Deployed and managed MongoDB in private EC2 environments with secure remote access and handled Snowflake user roles and permissions.
+
+- Developed AI-driven chatbots using AWS Lex, VAPI SDK, Lambda, Step Functions, and DynamoDB, hosted on S3 and CloudFront for scalable, low-latency access.
+
+- Created and monitored CloudWatch alarms for Lambda errors, EC2 CPU spikes, and SIP gateway issues.
+
+- Configured AWS security services such as CloudTrail, CloudWatch, and GuardDuty for monitoring, threat detection, and incident response.
+
+- Enforced IAM policies, RBAC, MFA, and security group configurations, including IP whitelisting, to ensure secure cloud access.
+
+- Automated CI/CD pipelines using Jenkins and Ansible, improving deployment efficiency and operational consistency.
+
+- Developed ETL pipelines using AWS Glue to process and transform large CSV datasets from S3 and load them into target databases, collaborating with data scientists on model deployment in SageMaker Unified Studio.
+
+- Optimized ETL workflows and cloud resources using Auto Scaling Groups and Elastic Load Balancers for better performance and cost efficiency.
+
+- Implemented Docker-based container solutions to enhance portability, scalability, and application consistency.
+
+- Developed AI-based monitoring for hybrid tunnel environments (on-prem to AWS) using n8n, enabling faster incident response.
+
+- Delivered training sessions to interns and clients on AWS architecture, DevOps tools, security best practices, and cloud migration strategies.
+
+- Demonstrated expertise in cloud risk models, security frameworks (CSA, CCM), compliance, and secure DevOps practices.
+
+- Set up and customized Amazon SageMaker Unified Studio, enabling centralized access for development, training, and model deployment across teams.
+
+- Managed SageMaker resources, user profiles, and shared spaces in Unified Studio to streamline collaboration and ensure secure access control.
 
 **Project 3: Jaimax**\
 **Associate Cloud Engineer**\
 *SP Software Pvt Ltd | Jan 2023 – Nov 2023*
-- Designed and deployed a secure and scalable cloud infrastructure on AWS within a 3-month timeline.
-- Migrated large datasets from legacy systems to AWS S3, enabling seamless access and management.
-- Configured IAM policies and security groups to ensure data and application security.
-- Optimized resource utilization, achieving a 40% reduction in operational costs by analyzing usage patterns.
-- Migrated MongoDB on-premises databases to AWS EC2 instances, ensuring seamless integration.
-- Configured Load Balancers and routed domain traffic using Amazon Route 53 for optimized performance.
-- Monitored application performance and implemented CloudWatch alarms for enhanced reliability.
+- Migrated large datasets from legacy systems to AWS S3 for seamless access and management.
+-	Applied IAM policies and security groups to enhance data and application security.
+-	Optimized resource utilization, reducing operational costs by 40% through usage pattern analysis.
+-	Migrated on-premises MongoDB databases to AWS DocumentDB for seamless integration.
+-	Configured Load Balancers and directed domain traffic using Amazon Route 53 for optimal performance.
+-	Monitored application performance and set up CloudWatch alarms to improve reliability.
+-	Deployed applications on AWS EC2 instances with Auto-scaling and load balancing for efficient traffic distribution
+
 
 **Project 2: SmartPort Chatbot**\
 **Associate Cloud Engineer**\
